@@ -1,0 +1,35 @@
+body {
+            background-color: #E3E5E7;
+            font-family: Oxygen,'Helvetica Neue',Arial,sans-serif;
+            font-weight:300;
+            line-height: 1.5;
+            margin-left: 300px;
+            margin-right: 300px;
+            color: #444;
+            margin-top: 50px;
+        }
+        p {
+            font-size: 1.1em;
+        }
+        h1 {
+            font-size: 3.15em;
+            line-height: 1;
+            font-weight: inherit;
+            margin: 0 0 .5%;
+        }
+        h2 {
+            font-size: 1.1em;
+            margin-bottom: .75%;
+            font-weight: inherit;
+
+        }
+        h3 {
+            font-size: 2em;
+            line-height: 1.75;
+        }
+        hr {
+            border-color: skyblue;
+        }
+        ul {
+            font-size: 1.25em;
+        }
